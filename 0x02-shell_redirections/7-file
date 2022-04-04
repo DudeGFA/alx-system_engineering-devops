@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Base School" | cat > '\*\\'\''"Base School"\'\''\\*$\?\*\*\*\*\*:)'
+echo "Base School" | cat> '\*\\'\''"Base School"\'\''\\*$\?\*\*\*\*\*:)'
