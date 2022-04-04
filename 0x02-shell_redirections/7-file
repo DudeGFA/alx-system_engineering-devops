@@ -1,3 +1,2 @@
 #!/bin/bash
-
-echo 'echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"' >> 7-file
+echo "Base School" | cat > '\*\\'\''"Base School"\'\''\\*$\?\*\*\*\*\*:)'
