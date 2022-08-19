@@ -6,7 +6,7 @@
 # prints "school is a regular file" if it is a regular file
 # prints "school file does not exist" if the file does not exist
 
-if [-e "school" ]
+if [ -e "school" ]
 then
     echo "school fie exists"
     if [ -s "school" ]

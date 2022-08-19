@@ -4,9 +4,8 @@
 # displays minutes from 1 to 59
 
 hour_count=0
-minute_count=1
 
-while [hour_count -le 12]
+while [ $hour_count -le 12 ]
 do
     echo "Hour: $hour_count"
     minute=1
