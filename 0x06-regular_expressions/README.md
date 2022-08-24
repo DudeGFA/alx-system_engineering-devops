@@ -76,7 +76,7 @@ File: [6-phone_number.rb](https://github.com/Izimartin/alx-system_engineering-de
 
 **mandatory**
 
-This task is brought to you by a professional advisor Neha Jain, Senior Software Engineer at LinkedIn.
+This task is brought to you by a professional advisor [Neha Jain](https://alx-intranet.hbtn.io/rltoken/GqwvXAvTXR_JXqyTvZ4AzQ), Senior Software Engineer at LinkedIn.
 
 **Requirement:**
 
