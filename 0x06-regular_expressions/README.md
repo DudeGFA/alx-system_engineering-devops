@@ -1,7 +1,7 @@
 # Tasks
 
 ### 0. Simply matching School
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a49ac0d52f97f969f223e206196d8601fcafe9d4a886203ae1376f9b564c1c4e" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a49ac0d52f97f969f223e206196d8601fcafe9d4a886203ae1376f9b564c1c4e"/>
 
 File: [0-simply_match_school.rb](https://github.com/Izimartin/alx-system_engineering-devops/blob/master/0x06-regular_expressions/0-simply_match_school.rb)
 
@@ -13,7 +13,7 @@ File: [0-simply_match_school.rb](https://github.com/Izimartin/alx-system_enginee
 	Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 ### 1. Repetition Token #0
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ad775034e3fd7195eb3a68a44c7f5953491df69188c2746b4ad98b4051e68b64" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ad775034e3fd7195eb3a68a44c7f5953491df69188c2746b4ad98b4051e68b64"/>
 
 File: [1-repetition_token_0.rb](https://github.com/Izimartin/alx-system_engineering-devops/blob/master/0x06-regular_expressions/1-repetition_token_0.rb)
 
@@ -25,7 +25,7 @@ File: [1-repetition_token_0.rb](https://github.com/Izimartin/alx-system_engineer
 	Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 ### 2. Repetition Token #1
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dab0c843cc29103470a2ab996ed7a012aa62ad7a3a254a2888ac701a2ab07daa" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dab0c843cc29103470a2ab996ed7a012aa62ad7a3a254a2888ac701a2ab07daa"/>
 
 File: [2-repetition_token_1.rb](https://github.com/Izimartin/alx-system_engineering-devops/blob/master/0x06-regular_expressions/2-repetition_token_1.rb)
 
@@ -37,7 +37,7 @@ File: [2-repetition_token_1.rb](https://github.com/Izimartin/alx-system_engineer
 	Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 ### 3. Repetition Token #2
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1746912a474cb9c6630ef9dea4d05edb05b25503b28480f901158264e79ac615" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1746912a474cb9c6630ef9dea4d05edb05b25503b28480f901158264e79ac615"/>
 
 File: [3-repetition_token_2.rb](https://github.com/Izimartin/alx-system_engineering-devops/blob/master/0x06-regular_expressions/3-repetition_token_2.rb)
 
@@ -49,7 +49,7 @@ File: [3-repetition_token_2.rb](https://github.com/Izimartin/alx-system_engineer
 	Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 ### 4. Repetition Token #3
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d68af497cea64b2dcf76feb9aa29c1836b0ce28e9f38ddddbb9eaf18370a5436" />
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T033615Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d68af497cea64b2dcf76feb9aa29c1836b0ce28e9f38ddddbb9eaf18370a5436"/>
 
 File: [4-repetition_token_3.rb](https://github.com/Izimartin/alx-system_engineering-devops/blob/master/0x06-regular_expressions/4-repetition_token_3.rb)
 
