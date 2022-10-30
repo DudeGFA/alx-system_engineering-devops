@@ -1,13 +1,12 @@
 #!/usr/bin/env bash
-# Configure Nginx so that its HTTP response contains
-# a custom header
-#
+# Configure Nginx so that its HTTP response contains a custom header
+
 balancer="\
 frontend haproxy_balancer
     bind *:80
     mode http
     default_backend webservers
-    
+
 backend webservers
     balance roundrobin
     server 35168-web-01 44.200.78.200 check
