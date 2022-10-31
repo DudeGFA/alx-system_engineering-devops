@@ -1,17 +1,29 @@
 #!/usr/bin/env bash
-# Installs a load balancer
-sudo apt-get -y update
-sudo apt-get -y install haproxy
-sudo chown  $USER:$USER /etc/haproxy/haproxy.cfg
-
-echo "
-frontend dudegfa
+# Configure Nginx so that its HTTP response contains
+# a custom header
+#
+balancer="\
+frontend haproxy_balancer
     bind *:80
     mode http
-    default_backend app
-backend app
+    default_backend webservers
+    
+backend webservers
     balance roundrobin
-    server 35168-web-01 44.200.78.200 check
-    server 35168-web-02 	34.224.63.115 check" >> /etc/haproxy/haproxy.cfg
+    server 35168-web-01 44.200.78.200:80 check
+    server 35168-web-02 34.224.63.115:80 check
+"
+# Update packages
+apt-get -y update
+apt-get -y upgrade
 
-sudo service haproxy restart
+# Add HAProxy PPA
+apt-get -y install software-properties-common
+add-apt-repository -y ppa:vbernat/haproxy-2.5
+apt-get -y update
+
+# Install HAProxy
+apt-get -y install haproxy
+cp -a /etc/haproxy/haproxy.cfg{,.orig}
+echo "$balancer" >> /etc/haproxy/haproxy.cfg
+service haproxy restart

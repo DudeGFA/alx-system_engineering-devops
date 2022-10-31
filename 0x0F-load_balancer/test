@@ -11,7 +11,7 @@ frontend dudegfa
     default_backend app
 backend app
     balance roundrobin
-    server 35168-web-01 44.200.78.200 check
-    server 35168-web-02 	34.224.63.115 check" >> /etc/haproxy/haproxy.cfg
+    server 35168-web-01 44.200.78.200:80 check
+    server 35168-web-02 34.224.63.115:80 check" >> /etc/haproxy/haproxy.cfg
 
 sudo service haproxy restart
