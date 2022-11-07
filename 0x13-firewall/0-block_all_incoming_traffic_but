@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Configures ufw so that it blocks all incoming traffic, except 22, 443 and 80
+sudo ufw enable
+sudo ufw default allow outgoing
+sudo ufw default deny incoming
+sudo ufw allow ssh
+sudo ufw allow 443/tcp
+sudo ufw allow 80/tcp
