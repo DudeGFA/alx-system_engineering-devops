@@ -5,8 +5,8 @@ if __name__ == "__main__":
     import sys
     todos = requests.get('https://jsonplaceholder.typicode.com/todos/',
                          params={'userId': sys.argv[1]}).json()
-    user = requests.get('https://jsonplaceholder.typicode.com/users/'
-                        + sys.argv[1]).json()
+    user = requests.get(
+        'https://jsonplaceholder.typicode.com/users/' + sys.argv[1]).json()
     completed_tasks = [task for task in todos if task["completed"] is True]
     print("Employee {} is done with tasks({}/{}):".format(
         user['name'], len(completed_tasks), len(todos)))
