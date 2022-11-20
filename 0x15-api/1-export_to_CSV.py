@@ -12,7 +12,7 @@ if __name__ == "__main__":
     with open(filename, 'w', newline="") as csvfile:
         csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
         for todo in todos:
-            csvwriter.writerow([sys.argv[1], user['name'],
+            csvwriter.writerow([sys.argv[1], user['username'],
                                 todo['completed'], todo['title']])
     completed_tasks = [task for task in todos if task["completed"] is True]
     print("Employee {} is done with tasks({}/{}):".format(
