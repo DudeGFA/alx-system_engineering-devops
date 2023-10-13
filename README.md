@@ -33,7 +33,7 @@ All of the following folders are projects done during the studies:
 | [`Attack Is The Best Defense`](./attack_is_the_best_defense) | ..  |
 
 ## Author :
-* **[God'sfavour Idowu-Agida](https://twitter.com/DudeGFA)** <[DudeGFA](https://github.com/DudeGFA)>
+* Twitter: **[God'sfavour Idowu-Agida](https://twitter.com/DudeGFA)** Github: <[DudeGFA](https://github.com/DudeGFA)>
 
 ## Acknowledgements :pray:
 
